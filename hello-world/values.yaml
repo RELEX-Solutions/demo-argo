@@ -1,5 +1,5 @@
 # Provide a custom message
-message: "This is a Demo with ArgoCD and External Repository!"
+message: "This is a Hello-World App with ArgoCD!"
 
 # Remember to set service.type=ClusterIP if you are using an ingress
 ingress:
